@@ -13,19 +13,19 @@ to give administrators precise control over job visibility.
 ---
 
 ## Login Page
-![Login Page](LoginPage(b).png)
+![Login Page](images/LoginPage(b).png)
 
 ## Dashboard with Filters
-![Dashboard](Dashboard(b).png)
+![Dashboard](images/Dashboard(b).png)
 
 ## Failed Job List
-![Failed Job List](FailedJobList(b).png)
+![Failed Job List](images/FailedJobList(b).png)
 
 ## Failed Job Details
-![Failed Job Details](FailedJobDetails(b).png)
+![Failed Job Details](images/FailedJobDetails(b).png)
 
 ## Recommended Next Actions
-![Recommended Actions](RecommendedNNextSteps(b).png)
+![Recommended Actions](images/RecommendedNNextSteps(b).png)
 
 ## Successful Job List
-![Successful Job List](SuccessfulJobList(b).png)
+![Successful Job List](images/SuccessfulJobList(b).png)
