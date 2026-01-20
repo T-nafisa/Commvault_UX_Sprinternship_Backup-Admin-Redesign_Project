@@ -22,7 +22,7 @@ high-priority and failed jobs directly in the job list.
 ![Failed Job List](images/FailedJobList(a).png)
 
 ## Failed Job Details
-![Failed Job Details](images/FailedDetails(a).png)
+![Failed Job Details](images/FailedDeatils(a).png)
 
 ## Error Explanation
 ![Error Details](images/ErrorDetails(a).png)
