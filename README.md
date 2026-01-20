@@ -22,5 +22,4 @@ Two design approaches were explored for the same problem space:
 Both approaches address the same user needs with different
 interaction strategies.
 
-> Note: All screens and data shown are anonymized and recreated
-for portfolio purposes.
+> Note: All screens and data shown are anonymized and maintained as a personal record of design work completed during the internship.
