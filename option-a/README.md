@@ -28,10 +28,10 @@ high-priority and failed jobs directly in the job list.
 ![Error Details](ErrorDetails(a).png)
 
 ## Expanded Failure Context
-![Expanded Failure](ExpandFailedJobErr.png)
+![Expanded Failure](ExpandFailedJobError(a).png)
 
 ## Recommended Next Actions
-![Recommended Next Actions](RecommendedNext.png)
+![Recommended Next Actions](RecommendedNextSteps(a).png)
 
 ## Successful Jobs View
 ![Successful Jobs](SuccessfulJobList(a).png)
